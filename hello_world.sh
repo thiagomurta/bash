@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Digite o seu nome:"
+echo "type your name:"
 read -r nome
 echo "Hello $nome $(date)"
